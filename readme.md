@@ -1,6 +1,6 @@
 # LZW File Compression Utility (C++)
 
-This is a functional command-line tool for file compression and decompression built in C++. The primary purpose of this project is to serve as a portfolio piece demonstrating a strong understanding of C++ programming, classic computer science algorithms, and low-level data manipulation.
+This is a command-line utility built in C++ that provides lossless file compression and decompression using the classic Lempel-Ziv-Welch (LZW) algorithm. It is a lightweight, dependency-free tool designed to demonstrate a practical implementation of fundamental compression techniques and low-level data handling, while also showcasing object-oriented principles through its encapsulated design.
 
 ---
 
