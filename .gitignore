@@ -1,0 +1,15 @@
+# Ignore editor-specific settings
+.vscode/
+
+# Ignore compiled executables
+*.exe
+lzw
+
+# Ignore compression output files
+*.lzw
+
+# Ignore all text files (test files and decompressed output)
+*.txt
+
+# Ignore other miscellaneous markdown files
+x.md
